@@ -1,0 +1,36 @@
+
+body{
+  background-color: #333;
+  background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+}
+h1{
+  color: #ccc;
+
+}
+h1 {
+    text-align: center;
+}
+h2 {
+  text-align: center;
+    text-size: 12px;
+}
+footer {
+    background-color: darkblue;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow:hidden;
+}
+.newHeadings{
+           text-decoration: underline;
+           font-family:  helvetica;
+           color: red;
+
+
+}
+#lastHeading{
+       font-family:  impact;
+      color: red;
+}
