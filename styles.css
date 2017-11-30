@@ -34,3 +34,9 @@ footer {
        font-family:  impact;
       color: red;
 }
+
+#myContainer{
+    width: 500px;
+    margin: 0px auto;
+    
+}
